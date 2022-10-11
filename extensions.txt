@@ -1,0 +1,8 @@
+todo_list
+picture
+covid
+weather
+guess
+yahoo
+cup
+xkcd
